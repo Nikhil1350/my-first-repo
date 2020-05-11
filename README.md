@@ -1,26 +1,22 @@
-# This is a large heading
+# Nikhil K. Jadhav
 
-## This is a smaller heading
+###Hobbies
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Playing cricket
+Drawing
+TRavelling
+Hangout with frds
 
-- This is
-- an unordered
-- list
+###Geography
 
-1. This is
-2. an ordered
-3. list
+I live in thane city, in the state of maharashtra, in India.
 
-Here is `some code` in the middle of a sentence.
+###For contact
 
-```
-This is
-a block
-of code
-```
+Active on instagram, facebook, whats app and snapchat
 
+###Fav place 
 
+Mumbai- a dream city
+
+###Stay home, stay safe...
